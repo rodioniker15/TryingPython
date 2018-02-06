@@ -1,0 +1,2 @@
+# TryingPython
+Python творения
